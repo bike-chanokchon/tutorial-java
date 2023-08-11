@@ -1,0 +1,32 @@
+
+	Data types
+	มี 2 ประเภทหลัก ๆ คือ
+	
+	* Primitive data type
+		- เป็นประเภทข้อมูลดั้งเดิม
+		- มีขนาดของข้อมูลมากสุดแค่
+		- จัดการข้อมูล
+		- เก็บข้อมูลได้มากที่สุดแค่ 1 ค่า
+		- ใช้ memory น้อย
+		- เร็ว
+	
+	* Reference data type
+		- จัดเก็บที่อยู่ของข้อมูล
+		- เก็บข้อมูลได้มากกว่า 1 ค่า
+		- ใช้ memory เยอะ
+		- ช้า
+	
+	* ประเภทช้อมูลที่ใช้บ่อย ๆ มีดังนี้
+		> boolean*		
+		> byte
+		> int*
+		> long
+		> float
+		> double*
+		> char*
+		> String*
+		
+	* ขึ้นตอนการสร้างตัวแปร
+		> int x; declaration
+		> x = 5; assignment
+		> int x = 5; initialization
