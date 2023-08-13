@@ -1,10 +1,15 @@
 
 public class Car {
+	String name;
 	String make = "Tesla";
 	String model = "Model 3";
 	int year = 2020;
 	String color = "blue";
 	double price = 120000.00;
+	
+	Car(String name) {
+		this.name = name;
+	}
 	
 	void drive() {
 		System.out.println("You drive the car");
