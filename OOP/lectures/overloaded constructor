@@ -1,0 +1,4 @@
+
+	Overloaded constructor
+		ทำให้เรามี constructor หลายตัวภายใน class ที่มีชื่อเหมือนกัน แต่มีความแตกต่างกันที่ parameters
+	โดย name + parameters = signature
