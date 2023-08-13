@@ -1,0 +1,19 @@
+
+	Access modifier
+	
+	
+	* public
+		- เข้าถึงได้จากทุกที่
+		
+	* protected
+		- เข้าถึงได้เฉพาะ class ที่ทำการ inheritance
+	
+	* no modifier
+		- เข้าถึงได้แค่ภายใน class, package เดียวกัน
+	
+	* private
+		- เข้าถึงได้เฉพาะภายใน class
+	
+	Package
+		เป็น Collection ของ classes ในขณะที่ classes คือ collection ของ code
+	โดยเราสามารถ import package มาได้เพื่อเข้าถึง class ที่ถูกจัดเก็บไว้ใน package นั้น ๆ
