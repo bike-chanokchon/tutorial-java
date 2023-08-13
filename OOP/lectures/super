@@ -1,0 +1,4 @@
+
+	super keyword
+		หมายถึง super class (parent) ของ object โดยจะใช้ในการเข้าถึงสมาชิกหรือ constructor ของ super class
+	โดยมักจะใช้กับ method ที่ถูก override มา
