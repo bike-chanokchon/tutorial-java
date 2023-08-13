@@ -1,13 +1,12 @@
 
 public class Main {
 	public static void main(String[] args) {
-		Car car1 = new Car();
-		System.out.println(car1.make);
-		System.out.println(car1.model);
-		car1.drive();
-		car1.brake();
+		Human human1 = new Human("Rick", 65, 70);
+		System.out.println(human1.name);
+		human1.eat();
 		
-		Car car2 = new Car();
-		car2.drive();
+		Human human2 = new Human("Bike", 20, 20);
+		System.out.println(human2.name);
+		human2.eat();
 	}
 }

@@ -1,0 +1,6 @@
+
+	Constructor
+		เป็น method พิเศษที่จะทำงานทันทีเมื่อ object ถูกสร้างขึ้น
+		
+	This keyword
+		เป็นการเข้าถึง attribute หรือ method ภายใน class เดียวกัน
