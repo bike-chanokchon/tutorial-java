@@ -13,6 +13,10 @@ public class Car {
 	void brake() {
 		System.out.println("You step on the brakes");
 	}
+	
+	public String toString() {
+		return make + " " + model + " " + Integer.toString(year) + " " + color + " " + Double.toString(price);
+	}
 }
 
 //Car car1 = new Car();

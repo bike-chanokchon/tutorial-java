@@ -1,0 +1,14 @@
+
+	toString
+		เป็น method พิเศษที่จะมีในทุก object โดยมันจะ return string ที่แสดงถึง object
+		
+	*****
+	เมื่อเราทำการ print object ออกมา เมื่อไม่ได้ override method toString เราจะได้รับ ชื่อ + ตำแหน่งที่ object ถูกเก็บอยู่ในหน่วยความจำ
+	เช่น
+		Car car = new Car();
+		System.out.println(car);
+		
+		ก็จะได้รับ Car@3fee733d
+	*****
+	แต่ถ้าเรา override method toString จะเป็นการเรียกใช้ตามที่เราเขียนลงไป
+	*****
