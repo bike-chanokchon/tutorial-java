@@ -1,0 +1,4 @@
+
+	Method overriding
+		เป็นการประกาศ method ใน sub class ซึ่งมีอยู่แล้วใร parent class
+	ทำเพื่อให้ class สืบทอดไปสามารถนำ method ไปเขียนทับความสามารถใหม่ได้
