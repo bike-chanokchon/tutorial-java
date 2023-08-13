@@ -13,3 +13,7 @@ public class Hero extends Person {
 		return super.toString() + this.power;
 	}
 }
+
+//Hero hero1 = new Hero("Batman", 42, "$$$");
+//
+//System.out.println(hero1.toString());
