@@ -1,0 +1,6 @@
+
+	Dynamic polymorphism
+		- Polymorphism คือ Object สามารถมีได้ลายรูปแบบ โดยการจากการสืบทอด super class
+		- Dynamic คือ ในการเขียนโปรแกรมจะหมายถึง หลังจากขั้นตอนการ compile (during runtime หรือ หรือจากที่โปรแกรมทำงานไปแล้ว)
+		
+		Dynamic polymorphism คือ ทำให้ object มีความหลากหลายหลังจากที่ได้ compile ไปแล้ว
