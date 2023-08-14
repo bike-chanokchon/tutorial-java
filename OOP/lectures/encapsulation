@@ -1,0 +1,3 @@
+
+	encapsulation
+		เป็นการซ่อน attribute ของ class (ถูกตั้งเป็น private) โดยจะสามารถเข้าถึงได้ด้วยวิธีการพิเศษ คือ getter และ setter
